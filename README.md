@@ -253,15 +253,6 @@ All pin definitions are available in [`camera_pins.h`](camera_pins.h) for refere
      - LED flash toggle
      - Get Still (capture a snapshot)
 
-### Direct Endpoints
-
-| URL | Description |
-|-----|-------------|
-| `http://192.168.4.1/` | Main web interface dashboard |
-| `http://192.168.4.1/stream` | Raw MJPEG video stream |
-| `http://192.168.4.1/capture` | Capture and download a JPEG still image |
-| `http://192.168.4.1/capture?bmp=true` | Capture and download a BMP still image |
-
 ---
 
 
